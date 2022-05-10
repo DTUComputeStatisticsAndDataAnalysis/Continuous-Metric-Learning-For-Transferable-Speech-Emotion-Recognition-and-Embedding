@@ -7,7 +7,7 @@ This is the official repository of
 
 ### What is this repository for? ###
 
-* Activation and valence labels that are generated in this work and that are used for analysis in the paper.  
+* Activation and valence labels that were generated in this work and that were used for analysis in the paper.  
 * v1.0
 
 ### Usage guidelines ###
