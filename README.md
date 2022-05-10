@@ -29,7 +29,7 @@ This is the official repository of
 
 * sned@dtu.dk
 
-### To be added? ###
+### To be added: ###
 
 * Source code for the work to be shared.
 * Updated labels from annotations by multiple raters.
