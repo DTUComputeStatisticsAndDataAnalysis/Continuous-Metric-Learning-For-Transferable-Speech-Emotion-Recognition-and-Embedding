@@ -1,7 +1,7 @@
 # README #
 
 This is the official repository of 
-"[Continuous Metric Learning For Transferable Speech Emotion Recognition and Embedding Across Low-resource Languages](https://septentrio.uit.no/index.php/nldl/article/view/6300)", Sneha Das et al. 2022
+"[Continuous Metric Learning For Transferable Speech Emotion Recognition and Embedding Across Low-resource Languages](https://septentrio.uit.no/index.php/nldl/article/view/6300)", Das et al. 2022
 
 ![Scatterplot](https://github.com/DTUComputeStatisticsAndDataAnalysis/Continuous-Metric-Learning-For-Transferable-Speech-Emotion-Recognition-and-Embedding/blob/main/figures/Screenshot%20from%202022-05-10%2016-54-16.png?raw=true)
 
